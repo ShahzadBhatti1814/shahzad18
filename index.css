@@ -297,26 +297,26 @@
 	#container {
 		width: 100%;
 		margin-left: 0;
-		margin-top: 0; /* Adjusted to remove extra space at the top */
+		margin-top: 0; 
 	}
 
 	.type-const {
-		text-align: center; /* Centered text alignment */
-		margin: 20px 0; /* Reduced margin to remove gap */
+		text-align: center; 
+		margin: 20px 0;
 	}
 
 	.type-const h1 {
 		font-size: 32px;
-		margin: 10px 0; /* Reduced margin to bring h1 closer to image */
+		margin: 10px 0; 
 	}
 
 	.type-const p {
 		font-size: 18px;
-		margin: 10px 0; /* Reduced margin to bring paragraph closer to h1 */
+		margin: 10px 0;
 	}
 
 	.type-const button {
-		margin: 10px 0; /* Reduced margin to align button closer to the paragraph */
+		margin: 10px 0; 
 	}
 
 	.read,

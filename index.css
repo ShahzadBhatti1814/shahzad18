@@ -201,7 +201,7 @@
 }#pics {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	justify-content: space-around;
 	margin: 40px 20px;
 }
 
@@ -273,7 +273,7 @@
 		text-align: center;
 	}
 .code button{
-	margin-left: 70px;
+	margin-left: 80px;
 	text-align: center;
 }
 	#container {
@@ -291,7 +291,7 @@
 	.type-const h1 {
 		display: flex;
 		font-size: 32px;
-		margin: 10px 0; 
+		margin: 20px 0; 
 	}
 
 	.type-const p {
@@ -305,6 +305,7 @@
 	#pics {
         display:inline-flex;
         align-items: center;
+		text-align: center;
     }
 
     .product-item {
